@@ -1,7 +1,5 @@
 # OPT-Application-Tracker
 
-![image](https://github.com/supreeta-anand-byatnal/OPT-Application-Tracker/assets/38351523/f5cf4113-7d20-4b38-893b-0dac419d8c00)
-
 ![image](https://github.com/supreeta-anand-byatnal/OPT-Application-Tracker/assets/38351523/c69e8edf-25cc-41a7-81d5-e281b5773c26)
 
 ![image](https://github.com/supreeta-anand-byatnal/OPT-Application-Tracker/assets/38351523/e682c465-aca4-4ee5-91dd-510984c74c76)
